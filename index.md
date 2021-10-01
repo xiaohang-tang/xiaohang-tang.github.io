@@ -4,48 +4,38 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi, I am Xiaohang Tang, a Year 2 undergraduate student at the University of Liverpool. I am now a member of Liverpool Natural Language Processing group[(NLP@Liv)](https://sites.google.com/site/complingliv/), advised by [Danushka Bollegala](http://danushka.net/).
+
+I worked as a research assitant at the e X-CHI Lab of Xi'an Jiaotong-Liverpool University, with [Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/school-of-advanced-technology/staff/haining-liang) and Diego Monteiro (Birmingham City University).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Human-Computer Interaction, VR, Human-AI Interaction**
+- **Machine Learning, NLP, Dialog**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Aug. 2021]** Our paper about empathy and game is accepted to [CHI PLAY 2021](https://chiplay.acm.org/2021/)! =]
+- **[Aug. 2021]** Our paper about cybersickness level prediction in VR is accepted to [ISMAR 2021](https://ismar21.org/).
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Myopic Bike and Say Hi: Games for Empathizing with The Myopic**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  Xiang Li, **Xiaohang Tang**, Xin Tong, Rakesh Patibanda, Florian ‘Floyd’ Mueller, Hai-Ning Liang
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  Extended Abstracts of the 2021 Annual Symposium on Computer-Human Interaction in Play. **CHI PLAY 2021.**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/pdf/2109.05292.pdf)]
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Using Trajectory Compression Rate to Predict Changes in Cybersickness in Virtual Reality Games**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Diego Monteiro, Hai-Ning Liang, **Xiaohang Tang**, Pourang Irani
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  IEEE International Symposium on Mixed and Augmented Reality. **ISMAR 2021.**
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://arxiv.org/pdf/2108.09538.pdf)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+## Patents
 
-## Services
-
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- **A method, apparatus and storage medium for detecting user’s cybersickness level in virtual environment.** [CN113283612A]
