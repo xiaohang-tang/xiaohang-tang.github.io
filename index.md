@@ -16,7 +16,7 @@ I worked as a research assitant at the e X-CHI Lab of Xi'an Jiaotong-Liverpool U
 ## News
 
 - **[Aug. 2021]** Our paper about empathy and game is accepted to [CHI PLAY 2021](https://chiplay.acm.org/2021/)! =]
-- **[Aug. 2021]** Our paper about cybersickness level prediction in VR is accepted to [ISMAR 2021](https://ismar21.org/).
+- **[Aug. 2021]** Our paper about cybersickness level prediction in VR is accepted to [ISMAR 2021](https://ismar21.org/)! =D
 
 ## Publications
 
