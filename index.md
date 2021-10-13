@@ -24,7 +24,7 @@ I worked as a research assitant at the e X-CHI Lab of Xi'an Jiaotong-Liverpool U
   <br>
   Xiang Li, **Xiaohang Tang**, Xin Tong, Rakesh Patibanda, Florian ‘Floyd’ Mueller, Hai-Ning Liang
   <br>
-  Extended Abstracts of the 2021 Annual Symposium on Computer-Human Interaction in Play. **CHI PLAY 2021.**.
+  Extended Abstracts of the 2021 Annual Symposium on Computer-Human Interaction in Play. **CHI PLAY 2021.**
   <br>
   [[PDF](https://arxiv.org/pdf/2109.05292.pdf)]
 
