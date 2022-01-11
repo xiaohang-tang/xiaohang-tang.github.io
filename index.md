@@ -8,12 +8,12 @@ Hi, I am Xiaohang Tang, a Year 2 undergrad student at the University of Liverpoo
 
 I worked as a research assitant at the e X-CHI Lab of Xi'an Jiaotong-Liverpool University, with [Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/school-of-advanced-technology/staff/haining-liang) and Diego Monteiro (Birmingham City University).
 
-Here is my [CV](https://github.com/xiaohang-tang/xiaohang-tang.github.io/raw/main/assets/css/xiaohang_cv.pdf).
+Here is my <a href="./assets/css/xiaohang_cv.pdf">CV</a>.
 
 ## Research Interests
 
 - **Human-Computer Interaction, VR, Human-AI Interaction**
-- **Machine Learning, NLP, Dialog**
+- **Machine Learning, NLP**
 
 ## News
 
