@@ -6,7 +6,7 @@ layout: homepage
 
 Hi, I am Xiaohang Tang, a Year 2 undergrad student at the University of Liverpool. I am now a member of Natural Language Processing group[(NLP@Liv)](https://livnlp.github.io/), advised by [Danushka Bollegala](http://danushka.net/).
 
-I worked as a research assitant at the e X-CHI Lab of Xi'an Jiaotong-Liverpool University, with [Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/school-of-advanced-technology/staff/haining-liang) and Diego Monteiro (Birmingham City University).
+I worked as a research assitant at the X-CHI Lab of Xi'an Jiaotong-Liverpool University, with [Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/school-of-advanced-technology/staff/haining-liang) and Diego Monteiro (Birmingham City University).
 
 Here is my <a href="./assets/css/xiaohang_cv.pdf">CV</a>.
 
