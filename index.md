@@ -10,7 +10,7 @@ This summer I will go to the [University of Notre Dame](https://www.nd.edu/) wor
 
 I worked as a research assitant at the X-CHI Lab of [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), with [Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/school-of-advanced-technology/staff/haining-liang) and Diego Monteiro (Birmingham City University).
 
-\| <a href="./assets/css/xiaohang_cv.pdf">CV</a> \| [Twitter](https://twitter.com/XiaohangTang) \|
+\| <a href="./assets/css/xiaohang_cv.pdf">CV</a> \| [Twitter](https://twitter.com/XiaohangTang) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=EFXD6KIAAAAJ) \|
 
 ## Research Interests
 
