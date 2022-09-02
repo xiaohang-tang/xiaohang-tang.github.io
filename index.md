@@ -8,7 +8,7 @@ Hi, I am Xiaohang Tang, a Year 2 undergrad student at the [University of Liverpo
 
 This summer I will go to the [University of Notre Dame](https://www.nd.edu/) working with [Toby Jia-Jun Li](https://toby.li/).
 
-I worked as a research assitant at the X-CHI Lab of [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), with [Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/school-of-advanced-technology/staff/haining-liang) and Diego Monteiro (Birmingham City University).
+I worked as a research assitant at the X-CHI Lab of [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), with [Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/school-of-advanced-technology/staff/haining-liang) and Diego Monteiro ([ESIEA](https://www.esiea.fr/en/)).
 
 \| <a href="./assets/css/xiaohang_cv.pdf">CV</a> \| [Twitter](https://twitter.com/XiaohangTang) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=EFXD6KIAAAAJ) \|
 
