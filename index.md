@@ -4,11 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Xiaohang Tang, a Year 2 undergrad student at the [University of Liverpool](https://www.liverpool.ac.uk/). I am now a member of Natural Language Processing group[(NLP@Liv)](https://livnlp.github.io/), advised by [Danushka Bollegala](http://danushka.net/).
+Hi, I am Xiaohang Tang, a final year undergraduate at the [University of Liverpool](https://www.liverpool.ac.uk/). I am now a member of Natural Language Processing group[(NLP@Liv)](https://livnlp.github.io/), advised by [Danushka Bollegala](http://danushka.net/).
 
-This summer I will go to the [University of Notre Dame](https://www.nd.edu/) working with [Toby Jia-Jun Li](https://toby.li/).
-
-I worked as a research assitant at the X-CHI Lab of [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), with [Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/school-of-advanced-technology/staff/haining-liang) and Diego Monteiro ([ESIEA](https://www.esiea.fr/en/)).
+I have worked as a research intern at the [University of Notre Dame](https://www.nd.edu/), working with [Toby Jia-Jun Li](https://toby.li/) since 2022 summer. Prior to it, I worked as a research assitant at the X-CHI Lab of [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), with [Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/school-of-advanced-technology/staff/haining-liang) and Diego Monteiro ([ESIEA](https://www.esiea.fr/en/)).
 
 \| <a href="./assets/css/xiaohang_cv.pdf">CV</a> \| [Twitter](https://twitter.com/XiaohangTang) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=EFXD6KIAAAAJ) \|
 
@@ -19,6 +17,9 @@ I worked as a research assitant at the X-CHI Lab of [Xi'an Jiaotong-Liverpool Un
 
 ## News
 
+- **[Sep. 2022]** My first-author paper was submitted to ICLR 2023! =D
+- **[Sep. 2022]** My summer internship paper was submitted to CHI 2023!
+- **[Sep. 2022]** Two posters were submitted to ISS 2022!
 - **[Aug. 2021]** Our paper about empathy and game is accepted to [CHI PLAY 2021](https://chiplay.acm.org/2021/)! =]
 - **[Aug. 2021]** Our paper about cybersickness level prediction in VR is accepted to [ISMAR 2021](https://ismar21.org/)! =D
 
