@@ -17,7 +17,7 @@ I have worked as a research intern at the [University of Notre Dame](https://www
 
 ## News
 
-- **[Sep. 2022]** My first-author paper was submitted to ICLR 2023! =D
+- **[Sep. 2022]** My first-author paper was submitted to EACL 2023! =D
 - **[Sep. 2022]** My summer internship paper was submitted to CHI 2023!
 - **[Sep. 2022]** Two posters were submitted to ISS 2022!
 - **[Aug. 2021]** Our paper about empathy and game is accepted to [CHI PLAY 2021](https://chiplay.acm.org/2021/)! =]
