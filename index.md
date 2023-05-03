@@ -17,7 +17,7 @@ I have worked as a research intern at the [University of Notre Dame](https://www
 
 ## News
 
-- **[May. 2023]** My first first-author paper has been accepted ACL 2023! Thanks to my coauthors!!
+- **[May. 2023]** My first first-author paper has been accepted to ACL 2023 (main)! Thanks to my coauthors!!
 - **[Jan. 2023]** One co-authored paper has been conditionally accepted with minor revisions to CHI 2023! =D
 - **[Sep. 2022]** My summer internship paper was submitted to CHI 2023!
 - **[Sep. 2022]** Two posters were submitted to ISS 2022!
