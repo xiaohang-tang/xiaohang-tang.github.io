@@ -18,8 +18,8 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **Natural Language Processing, Machine Learning**
 
 ## News
-- **[Oct. 2023]** I will present our poster VizPI at UIST 2023. See you all in San Francisco!:sun_with_face:
-- **[Oct. 2023]** Our paper has been accepted to EMNPL 2023 (findings)!:tada:
+- **[Oct. 2023]** I will present our poster VizPI at UIST 2023. See you all in San Francisco!!
+- **[Oct. 2023]** Our paper has been accepted to EMNPL 2023 (findings)! =]
 - **[May. 2023]** My first first-author paper has been accepted to ACL 2023 (main)! Thanks to my coauthors!!
 - **[Jan. 2023]** One co-authored paper has been conditionally accepted with minor revisions to CHI 2023! =D
 - **[Sep. 2022]** My summer internship paper was submitted to CHI 2023!
