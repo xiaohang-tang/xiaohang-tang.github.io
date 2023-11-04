@@ -62,7 +62,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 
 - **How Virtual Body Continuity with Different Hand Representations Influence on User Perceptions and Task Performance**
   <br>
-  Simret Araya, Zheng Zhang, **Xiaohang Tang**, Yihao Meng, Elena Glassman, Toby Jia-Jun Li
+  Jingjing Zhang, Mengjie Huang, **Xiaohang Tang**, Yiqi Wang, Rui Yang
   <br>
   2022 15th International Conference on Human System Interaction **HSI 2022**
   <br>
