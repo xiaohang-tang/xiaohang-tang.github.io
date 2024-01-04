@@ -60,14 +60,6 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   [[PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CB88EFDCB5A7F1DA5416DFCB4D628E4E/S0890060423000045a.pdf/understanding-the-effects-of-hand-design-on-embodiment-in-virtual-reality.pdf)]
 
-- **How Virtual Body Continuity with Different Hand Representations Influence on User Perceptions and Task Performance**
-  <br>
-  Jingjing Zhang, Mengjie Huang, **Xiaohang Tang**, Yiqi Wang, Rui Yang
-  <br>
-  2022 15th International Conference on Human System Interaction **HSI 2022**
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9869486)]
-
 - **Using Trajectory Compression Rate to Predict Changes in Cybersickness in Virtual Reality Games**
   <br>
   Diego Monteiro, Hai-Ning Liang, **Xiaohang Tang**, Pourang Irani
