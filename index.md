@@ -75,6 +75,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology. **UIST 2023 Poster**
   <br>
+  [[PDF](https://dl.acm.org/doi/10.1145/3586182.3616632)]
   
 - **GesMessages: Using Mid-air Gestures to Manage Notifications**
   <br>
