@@ -18,6 +18,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **Natural Language Processing, Machine Learning**
 
 ## News
+- **[Apr. 2024]** Our work CFlow is conditionally accepted to L@S 2024!
 - **[Oct. 2023]** I will present our poster VizPI at UIST 2023. See you all in San Francisco!!
 - **[Oct. 2023]** Our paper has been accepted to EMNLP 2023 (findings)! =]
 - **[May. 2023]** My first first-author paper has been accepted to ACL 2023 (main)! Thanks to my coauthors!!
@@ -28,6 +29,14 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **[Aug. 2021]** Our paper about cybersickness level prediction in VR has been accepted to ISMAR 2021! =D
 
 ## Publications
+- **CFlow: Supporting Semantic Flow Analysis of Students' Code in Programming Problems at Scale**
+  <br>
+  Ashley Ge Zhang, **Xiaohang Tang**, Steve Oney, Yan Chen
+  <br>
+  Proceedings of the 2024 ACM Learning @ Scale Conference. **L@S 2024**
+  <br>
+  [[PDF](https://arxiv.org/pdf/2404.10089.pdf)]
+  
 - **Can Word Sense Distribution Detect Semantic Changes of Words?**
   <br>
   **Xiaohang Tang**, Yi Zhou, Taichi Aida, Procheta Sen, Danushka Bollegala
