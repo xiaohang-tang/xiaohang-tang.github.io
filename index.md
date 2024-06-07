@@ -23,12 +23,6 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **[Oct. 2023]** Our paper has been accepted to EMNLP 2023 (findings)! =]
 - **[May. 2023]** My first first-author paper has been accepted to ACL 2023 (main)! Thanks to my coauthors!!
 - **[Jan. 2023]** One co-authored paper has been conditionally accepted with minor revisions to CHI 2023! =D
-<!--
-- **[Sep. 2022]** My summer internship paper was submitted to CHI 2023!
-- **[Sep. 2022]** Two posters were submitted to ISS 2022!
-- **[Aug. 2021]** Our paper about empathy and game has been accepted to CHI PLAY 2021! =]
-- **[Aug. 2021]** Our paper about cybersickness level prediction in VR has been accepted to ISMAR 2021! =D
--->
 
 ## Publications
 - **CFlow: Supporting Semantic Flow Analysis of Students' Code in Programming Problems at Scale**
@@ -55,7 +49,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   [[PDF](https://arxiv.org/pdf/2208.10734)]
   
-- **PaTAT: Human-AI Collaborative Qalitative Coding with Explainable Interactive Rule Synthesis**
+- **PaTAT: Human-AI Collaborative Qualitative Coding with Explainable Interactive Rule Synthesis**
   <br>
   Simret Araya, Zheng Zhang, **Xiaohang Tang**, Yihao Meng, Elena Glassman, Toby Jia-Jun Li
   <br>
