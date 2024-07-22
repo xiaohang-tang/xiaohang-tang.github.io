@@ -33,7 +33,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   **🏆 Best Paper**
   <br>
-  [[PDF](https://arxiv.org/pdf/2404.10089.pdf)]
+  [[PDF](https://dl.acm.org/doi/abs/10.1145/3657604.3662025)]
   
 - **Can Word Sense Distribution Detect Semantic Changes of Words?**
   <br>
