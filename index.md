@@ -31,6 +31,8 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   Proceedings of the 2024 ACM Learning @ Scale Conference. **L@S 2024**
   <br>
+  🏆 Best Paper
+  <br>
   [[PDF](https://arxiv.org/pdf/2404.10089.pdf)]
   
 - **Can Word Sense Distribution Detect Semantic Changes of Words?**
