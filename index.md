@@ -18,6 +18,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **Natural Language Processing, Machine Learning**
 
 ## News
+- **[Aug. 2024]** VizGroup is accepted to UIST 2024! See you all in Pittsburg!
 - **[Apr. 2024]** Our work CFlow is conditionally accepted to L@S 2024!
 - **[Oct. 2023]** I will present our poster VizPI at UIST 2023. See you all in San Francisco!!
 - **[Oct. 2023]** Our paper has been accepted to EMNLP 2023 (findings)! =]
@@ -25,6 +26,13 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **[Jan. 2023]** One co-authored paper has been conditionally accepted with minor revisions to CHI 2023! =D
 
 ## Publications
+- **VizGroup: An AI-Assisted Event-Driven System for Real-Time Collaborative Programming Learning Analytics**
+  <br>
+  **Xiaohang Tang**, Sam Wong, Kevin Pu, Xi Chen, Yalong Yang, Yan Chen
+  <br>
+  Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology. **UIST 2024 [Accepted]**
+  <br>
+  
 - **CFlow: Supporting Semantic Flow Analysis of Students' Code in Programming Problems at Scale**
   <br>
   Ashley Ge Zhang, **Xiaohang Tang**, Steve Oney, Yan Chen
