@@ -18,6 +18,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **Natural Language Processing, Machine Learning**
 
 ## News
+- **[Aug. 2024]** Our paper has been accepted to SIGCSE 2025!
 - **[Aug. 2024]** VizGroup has been accepted to UIST 2024! See you all in Pittsburgh! =D
 - **[Apr. 2024]** Our work CFlow is conditionally accepted to L@S 2024!
 - **[Oct. 2023]** I will present our poster VizPI at UIST 2023. See you all in San Francisco!!
@@ -26,6 +27,13 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **[Jan. 2023]** One co-authored paper has been conditionally accepted with minor revisions to CHI 2023! =D
 
 ## Publications
+- **The Impact of Group Discussion and Formation on Student Performance: An Experience Report in a Large CS1 Course**
+  <br>
+  Tong Wu, **Xiaohang Tang**, Sam Wong, Xi Chen, Clifford A Shaffer, Yan Chen
+  <br>
+  Proceedings of the 56th ACM Technical Symposium on Computer Science Education. **SIGCSE 2025 [Accepted]**
+  <br>
+
 - **VizGroup: An AI-Assisted Event-Driven System for Real-Time Collaborative Programming Learning Analytics**
   <br>
   **Xiaohang Tang**, Sam Wong, Kevin Pu, Xi Chen, Yalong Yang, Yan Chen
