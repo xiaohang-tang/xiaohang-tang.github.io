@@ -126,4 +126,4 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 
 ## Patents
 
-- **A method, apparatus and storage medium for detecting user’s cybersickness level in virtual environment.** [CN113283612A]
+- **Method, device and storage medium for detecting user cybersickness degree in virtual environment.** [CN113283612B]
