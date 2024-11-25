@@ -8,7 +8,7 @@ Hi, I am Xiaohang Tang, a second-year PhD student at [Virginia Tech](https://www
 
 I received my B.Sc. (First Class Honors) from [University of Liverpool](https://www.liverpool.ac.uk/) and [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), under the supervision of [Danushka Bollegala](http://danushka.net/) in the Natural Language Processing group[(NLP@Liv)](https://livnlp.github.io/).
 
-I was a research intern at the [University of Notre Dame](https://www.nd.edu/) in 2022 summer, working with [Toby Jia-Jun Li](https://toby.li/). Prior to that, I worked as a research assistant at the X-CHI Lab of [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), with [Hai-Ning Liang](https://www.xjtlu.edu.cn/en/departments/academic-departments/school-of-advanced-technology/staff/haining-liang) and Diego Monteiro ([ESIEA](https://www.esiea.fr/en/)).
+I was a research intern at the [University of Notre Dame](https://www.nd.edu/) in 2022 summer, working with [Toby Jia-Jun Li](https://toby.li/). Prior to that, I worked as a research assistant at the X-CHI Lab of [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), with [Hai-Ning Liang](https://cma.hkust-gz.edu.cn/faculty-regular/hai-ning-liang/) and [Diego Monteiro](https://www.linkedin.com/in/diego-monteiro-8352b739/?locale=fr_FR).
 
 \| <a href="./assets/css/xiaohang_cv.pdf">CV</a> \| [Twitter](https://twitter.com/XiaohangTang) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=EFXD6KIAAAAJ) \|
 
@@ -38,8 +38,9 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   **Xiaohang Tang**, Sam Wong, Kevin Pu, Xi Chen, Yalong Yang, Yan Chen
   <br>
-  Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology. **UIST 2024 [Accepted]**
+  Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology. **UIST 2024**
   <br>
+  [[ACM DL](https://dl.acm.org/doi/10.1145/3654777.3676347)]
   
 - **CFlow: Supporting Semantic Flow Analysis of Students' Code in Programming Problems at Scale**
   <br>
@@ -49,7 +50,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   **🏆 Best Paper**
   <br>
-  [[PDF](https://dl.acm.org/doi/abs/10.1145/3657604.3662025)]
+  [[ACM DL](https://dl.acm.org/doi/abs/10.1145/3657604.3662025)]
   
 - **Can Word Sense Distribution Detect Semantic Changes of Words?**
   <br>
@@ -57,7 +58,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   Findings of the Association for Computational Linguistics: EMNLP 2023. **EMNLP 2023 Findings**
   <br>
-  [[PDF](https://arxiv.org/pdf/2310.10400.pdf)]
+  [[PDF](https://aclanthology.org/2023.findings-emnlp.231.pdf)]
   
 - **Learning Dynamic Contextualised Word Embeddings via Template-based Temporal Adaptation**
   <br>
@@ -65,7 +66,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics. **ACL 2023**
   <br>
-  [[PDF](https://arxiv.org/pdf/2208.10734)]
+  [[PDF](https://aclanthology.org/2023.acl-long.520.pdf)]
   
 - **PaTAT: Human-AI Collaborative Qualitative Coding with Explainable Interactive Rule Synthesis**
   <br>
@@ -73,7 +74,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. **CHI 2023**
   <br>
-  [[PDF](http://toby.li/files/chi23b-gebreegziabher-patat.pdf)]
+  [[ACM DL](https://dl.acm.org/doi/10.1145/3544548.3581352)]
 
 - **Understanding the effects of hand design on embodiment in virtual reality**
   <br>
@@ -98,7 +99,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology. **UIST 2023 Poster**
   <br>
-  [[PDF](https://dl.acm.org/doi/10.1145/3586182.3616632)]
+  [[ACM DL](https://dl.acm.org/doi/10.1145/3586182.3616632)]
   
 - **GesMessages: Using Mid-air Gestures to Manage Notifications**
   <br>
@@ -106,7 +107,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   Proceedings of the 2023 ACM Symposium on Spatial User Interaction **SUI 2023 Poster**
   <br>
-  [[PDF](https://dl.acm.org/doi/pdf/10.1145/3607822.3618023)]
+  [[ACM DL](https://dl.acm.org/doi/pdf/10.1145/3607822.3618023)]
   
 - **GesPlayer: Using Augmented Gestures to Empower Video Players**
   <br>
