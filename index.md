@@ -99,7 +99,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   **Xiaohang Tang**, Sam Wong, Marcus Huynh, Zicheng He, Yalong Yang, Yan Chen
   <br>
   Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. **CHI 2025 Late-Breaking Work [Accepted]**
-  <be>
+  <br>
   [<a href="./assets/css/chiea25-sphere.pdf">PDF</a>]
   
 - **VizPI: A Real-Time Visualization Tool for Enhancing Peer Instruction in Large-Scale Programming Lectures**
