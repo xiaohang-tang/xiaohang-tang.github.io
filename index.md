@@ -26,14 +26,15 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **[May. 2023]** My first first-author paper has been accepted to ACL 2023 (main)! Thanks to my coauthors!!
 - **[Jan. 2023]** One co-authored paper has been conditionally accepted with minor revisions to CHI 2023! =D
 
-## Publications
+## Publications  
 - **The Impact of Group Discussion and Formation on Student Performance: An Experience Report in a Large CS1 Course**
   <br>
   Tong Wu, **Xiaohang Tang**, Sam Wong, Xi Chen, Clifford A Shaffer, Yan Chen
   <br>
-  Proceedings of the 56th ACM Technical Symposium on Computer Science Education. **SIGCSE 2025 [Accepted]**
+  Proceedings of the 56th ACM Technical Symposium on Computer Science Education. **SIGCSE 2025**
   <br>
-
+  [[ACM DL](https://dl.acm.org/doi/10.1145/3641554.3701973)]
+  
 - **VizGroup: An AI-Assisted Event-Driven System for Real-Time Collaborative Programming Learning Analytics**
   <br>
   **Xiaohang Tang**, Sam Wong, Kevin Pu, Xi Chen, Yalong Yang, Yan Chen
@@ -92,7 +93,15 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   [[PDF](https://arxiv.org/pdf/2108.09538.pdf)]
 
-## Posters, Workshops, and On Going Work
+## Posters, Workshops, and On-Going Work
+- **SPHERE: Supporting Personalized Feedback at Scale in Programming Classrooms with Structured Review of Generative**
+  <br>
+  **Xiaohang Tang**, Sam Wong, Marcus Huynh, Zicheng He, Yalong Yang, Yan Chen
+  <br>
+  Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. **CHI 2025 [Accepted]**
+  <br>
+  <a href="./assets/css/chiea25-sphere.pdf">[PDF]</a>
+  
 - **VizPI: A Real-Time Visualization Tool for Enhancing Peer Instruction in Large-Scale Programming Lectures**
   <br>
   **Xiaohang Tang**, Xi Chen, Sam Wong, Yan Chen
