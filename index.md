@@ -94,7 +94,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   [[PDF](https://arxiv.org/pdf/2108.09538.pdf)]
 
 ## Posters, Workshops, and On-Going Work
-- **SPHERE: Supporting Personalized Feedback at Scale in Programming Classrooms with Structured Review of Generative**
+- **SPHERE: Supporting Personalized Feedback at Scale in Programming Classrooms with Structured Review of Generative AI Outputs**
   <br>
   **Xiaohang Tang**, Sam Wong, Marcus Huynh, Zicheng He, Yalong Yang, Yan Chen
   <br>
