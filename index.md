@@ -65,7 +65,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   **Xiaohang Tang**, Yi Zhou, Danushka Bollegala
   <br>
-  Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics. **ACL 2023**
+  Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics. **ACL 2023** _(Oral)_
   <br>
   [[PDF](https://aclanthology.org/2023.acl-long.520.pdf)]
   
@@ -98,9 +98,9 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
   <br>
   **Xiaohang Tang**, Sam Wong, Marcus Huynh, Zicheng He, Yalong Yang, Yan Chen
   <br>
-  Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. **CHI 2025 Late-Breaking Work [Accepted]**
+  Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. **CHI 2025 Late-Breaking Work**
   <br>
-  [<a href="./assets/css/chiea25-sphere.pdf">PDF</a>]
+  [<a href="./assets/css/chiea25-sphere.pdf">PDF</a>] [[ACM DL](https://dl.acm.org/doi/10.1145/3706599.3720203)]
   
 - **VizPI: A Real-Time Visualization Tool for Enhancing Peer Instruction in Large-Scale Programming Lectures**
   <br>
