@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Xiaohang Tang, a second-year PhD student at [Virginia Tech](https://www.vt.edu/), advised by [Yan Chen](https://chensivan.github.io/). I study and develop Human-AI systems to enhance the programming learning experience at scale, via combining techniques from Human-Computer Interaction, Natural Language Processing, and Visualization.   
+Hi, I am Xiaohang Tang, a third-year PhD student at [Virginia Tech](https://www.vt.edu/), advised by [Yan Chen](https://chensivan.github.io/). I study and develop Human-AI systems to enhance the programming learning experience at scale, via combining techniques from Human-Computer Interaction, Natural Language Processing, and Visualization.   
 
 I received my B.Sc. (First Class Honors) from [University of Liverpool](https://www.liverpool.ac.uk/) and [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/), under the supervision of [Danushka Bollegala](http://danushka.net/) in the Natural Language Processing group[(NLP@Liv)](https://livnlp.github.io/).
 
