@@ -18,6 +18,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **Natural Language Processing, Machine Learning**
 
 ## News
+- **[Aug. 2025]** Our paper has been accepted to VL/HCC 2025!
 - **[Oct. 2024]** Our paper has been accepted to SIGCSE 2025!
 - **[Aug. 2024]** VizGroup has been accepted to UIST 2024! See you all in Pittsburgh! =D
 - **[Apr. 2024]** Our work CFlow is conditionally accepted to L@S 2024!
