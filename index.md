@@ -28,6 +28,13 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **[Jan. 2023]** One co-authored paper has been conditionally accepted with minor revisions to CHI 2023! =D
 
 ## Publications  
+- **Dynamite: Real-Time Debriefing Slide Authoring through AI-Enhanced Multimodal Interaction**
+  <br>
+  Panayu Keelawat, David Barron, Kaushik Narasimhan, Daniel Manesh, **Xiaohang Tang**, Xi Chen, Sang Won Lee, Yan Chen
+  <br>
+  2025 IEEE Symposium on Visual Languages and Human-Centric Computing. **VL/HCC 2025**
+  <br>
+  [[PDF](https://arxiv.org/pdf/2507.20137)]
 - **The Impact of Group Discussion and Formation on Student Performance: An Experience Report in a Large CS1 Course**
   <br>
   Tong Wu, **Xiaohang Tang**, Sam Wong, Xi Chen, Clifford A Shaffer, Yan Chen
