@@ -18,6 +18,7 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **Natural Language Processing, Machine Learning**
 
 ## News
+- **[Aug. 2026]** Our paper about learner behaviour during AI-assisted programming, TutorTrace, has been accepted to UIST 2026! Check our [dataset](https://vizpi.org/dataset) =]
 - **[Aug. 2025]** Our paper has been accepted to VL/HCC 2025!
 - **[Oct. 2024]** Our paper has been accepted to SIGCSE 2025!
 - **[Aug. 2024]** VizGroup has been accepted to UIST 2024! See you all in Pittsburgh! =D
@@ -28,6 +29,13 @@ I was a research intern at the [University of Notre Dame](https://www.nd.edu/) i
 - **[Jan. 2023]** One co-authored paper has been conditionally accepted with minor revisions to CHI 2023! =D
 
 ## Publications  
+- **TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education**
+  <br>
+  David Barron, **Xiaohang Tang**, Rezky Dwisantika, Minsun Kim, David H. Smith IV, Jiaming Cui, Yan Chen
+  <br>
+  Proceedings of the 39th Annual ACM Symposium on User Interface Software and Technology. **UIST 2026**
+  <br>
+  [[PDF](https://arxiv.org/pdf/2608.26184)]
 - **Dynamite: Real-Time Debriefing Slide Authoring through AI-Enhanced Multimodal Interaction**
   <br>
   Panayu Keelawat, David Barron, Kaushik Narasimhan, Daniel Manesh, **Xiaohang Tang**, Xi Chen, Sang Won Lee, Yan Chen
